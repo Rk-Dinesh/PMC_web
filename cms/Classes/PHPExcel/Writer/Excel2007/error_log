@@ -1,0 +1,16 @@
+[19-Feb-2024 12:14:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPExcel_Writer_Excel2007_WriterPart" not found in /home/hackwittechnolog/public_html/Pick My Course.com/vendor/Classes/PHPExcel/Writer/Excel2007/Comments.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/hackwittechnolog/public_html/Pick My Course.com/vendor/Classes/PHPExcel/Writer/Excel2007/Comments.php on line 28
+[19-Feb-2024 12:14:16 UTC] PHP Fatal error:  Uncaught Error: Class "PHPExcel_Writer_Excel2007_WriterPart" not found in /home/hackwittechnolog/public_html/Pick My Course.com/vendor/Classes/PHPExcel/Writer/Excel2007/Comments.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/hackwittechnolog/public_html/Pick My Course.com/vendor/Classes/PHPExcel/Writer/Excel2007/Comments.php on line 28
+[19-Feb-2024 12:14:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPExcel_Writer_Excel2007_WriterPart" not found in /home/hackwittechnolog/public_html/Pick My Course.com/vendor/Classes/PHPExcel/Writer/Excel2007/Comments.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/hackwittechnolog/public_html/Pick My Course.com/vendor/Classes/PHPExcel/Writer/Excel2007/Comments.php on line 28
+[19-Feb-2024 12:14:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPExcel_Writer_Excel2007_WriterPart" not found in /home/hackwittechnolog/public_html/Pick My Course.com/vendor/Classes/PHPExcel/Writer/Excel2007/Comments.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/hackwittechnolog/public_html/Pick My Course.com/vendor/Classes/PHPExcel/Writer/Excel2007/Comments.php on line 28
