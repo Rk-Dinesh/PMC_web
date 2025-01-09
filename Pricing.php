@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="assets/css/aos.css" />
     <link rel="stylesheet" href="assets/css/fontawesome-all.min.css" />
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
     <link rel="stylesheet" href="assets/css/glightbox-min.css" />
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
@@ -23,58 +24,7 @@
     <!-- Main Start -->
     <main class="wrapper">
       <!-- Breadcrumb Start -->
-      <section
-        class="aai-breadcrumb"
-        style="
-          background: url('assets/img/bg/bread-crumb-bg.jpeg') no-repeat center
-            center/cover;
-        "
-      >
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-auto">
-              <div class="text-center">
-                <h2 class="aai-page-title">Pricing</h2>
-                <ul
-                  class="aai-breadcrumb-nav d-flex align-items-center justify-content-center"
-                >
-                  <li>
-                    <a
-                      href=""
-                      class="aai-breadcrumb-link text-decoration-underline"
-                      >Home</a
-                    >
-                  </li>
-                  <li>
-                    <svg
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path
-                        d="M14 16L18 12M18 12L14 8M18 12L6 12"
-                        stroke="#DADADA"
-                        stroke-width="1.5"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                      />
-                    </svg>
-                  </li>
-                  <li>
-                    <a href="" class="aai-breadcrumb-link"> Pricing</a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <!-- Breadcrumb End -->
-
-   <!-- Pricing Table Start -->
-   <section class="aai-price-tables pb-120">
+      <section class="aai-price-tables pb-120">
         <div class="container">
           <div
             class="row align-items-center mb-5"
@@ -263,7 +213,7 @@
               </div>
               <div class="col-xl-2 col-lg-6">
                 <div>
-                  <a href="https://app.pickmycourse.ai/signup" class="aai-gradient-outline-btn">Get Started </a>
+                  <a href="https://app.pickmycourse.ai/signup" target="_blank"  class="aai-gradient-outline-btn">Get Started </a>
                 </div>
               </div>
             </div>
@@ -277,7 +227,7 @@
             <div class="row g-4 align-items-center justify-content-between">
               <div class="col-xl-4 col-lg-6">
                 <div class="aai-price-pack">
-                  <h3 class="aai-price-pack-name">Creator</h3>
+                  <h3 class="aai-price-pack-name">Creator (Billed Quarterly)</h3>
                   <p class="aai-price-pack-desc">
                     Unlock more creative possibilities with the Creator plan.
                   </p>
@@ -431,12 +381,12 @@
               </div>
               <div class="col-xl-3 col-lg-6">
                 <div class="aai-price-value">
-                  <h2 class="aai-price">$2.00/<br>Month</h2>
+                  <h2 class="aai-price">₹ 170.00/<br>Month</h2>
                 </div>
               </div>
               <div class="col-xl-2 col-lg-6">
                 <div>
-                  <a href="https://app.pickmycourse.ai/signup" class="aai-btn btn-pill-solid">Get Started </a>
+                  <a href="https://app.pickmycourse.ai/signup" target="_blank" class="aai-btn btn-pill-solid">Get Started </a>
                 </div>
               </div>
             </div>
@@ -446,7 +396,7 @@
             <div class="row g-4 align-items-center justify-content-between">
               <div class="col-xl-4 col-lg-6">
                 <div class="aai-price-pack">
-                  <h3 class="aai-price-pack-name">Power User</h3>
+                  <h3 class="aai-price-pack-name">Power User (Billed Quarterly)</h3>
                   <p class="aai-price-pack-desc">
                     Maximize your learning potential with the Power User plan.
                   </p>
@@ -600,12 +550,12 @@
               </div>
               <div class="col-xl-3 col-lg-6">
                 <div class="aai-price-value">
-                  <h2 class="aai-price">$5.00/<br>Month</h2>
+                  <h2 class="aai-price">₹ 430.00/<br>Month</h2>
                 </div>
               </div>
               <div class="col-xl-2 col-lg-6">
                 <div>
-                  <a href="https://app.pickmycourse.ai/signup" class="aai-gradient-outline-btn">Get Started </a>
+                  <a href="https://app.pickmycourse.ai/signup" target="_blank" class="aai-gradient-outline-btn">Get Started </a>
                 </div>
               </div>
             </div>

@@ -32,7 +32,7 @@
             </div>
             <div class="col-lg-6">
               <div class="aai-newsletter">
-              <form action="footer.php" method="post">
+              <form action="../footer.php" method="post">
                   <div class="position-relative">
                     <input
                       type="text"
@@ -64,18 +64,19 @@
                   Your Personalized AI Learning Journey
                 </p>
                 <div class="aai-social-links d-flex">
-                  <a href="http://" target="_blank" rel="noopener noreferrer">
-                    <i class="fa-brands fa-facebook-f"></i>
+                <a href="https://www.linkedin.com/company/pickmycourseai/" target="_blank" rel="noopener noreferrer">
+                  <i class="fa-brands fa-linkedin-in"></i>
                   </a>
-                  <a href="http://" target="_blank" rel="noopener noreferrer">
-                    <i class="fa-brands fa-twitter"></i
-                  ></a>
-                  <a href="http://" target="_blank" rel="noopener noreferrer">
+                  <a href="https://x.com/pickmycourseai" target="_blank" rel="noopener noreferrer">
+                  <i class="fa-brands fa-x-twitter"></i></a>
+                  <a href="https://www.instagram.com/pickmycourse.ai/" target="_blank" rel="noopener noreferrer">
                     <i class="fa-brands fa-instagram"></i
                   ></a>
-                  <a href="http://" target="_blank" rel="noopener noreferrer"
+                  <a href="https://www.youtube.com/@pickmycourseai" target="_blank" rel="noopener noreferrer"
                     ><i class="fa-brands fa-youtube"></i
                   ></a>
+                  <a href="https://www.reddit.com/user/pickmycourseai/" target="_blank" rel="noopener noreferrer"
+                    ><i class="fa-brands fa-reddit-alien"></i></a>
                 </div>
               </div>
             </div>
@@ -91,19 +92,19 @@
                     <h3 class="aai-footer-nav-title">Company</h3>
                     <ul class="aai-footer-nav-list">
                       <li class="aai-footer-nav-list-item">
-                        <a href="index.php" class="aai-footer-nav-link"> Our Story </a>
+                        <a href="../Discover/Our_Story.php" class="aai-footer-nav-link"> Our Story </a>
                       </li>
                       <li class="aai-footer-nav-list-item">
-                        <a href="services.html" class="aai-footer-nav-link"> Blogs</a>
+                        <a href="../Blogs/Blog.php" class="aai-footer-nav-link"> Blogs</a>
                       </li>
                       <li class="aai-footer-nav-list-item">
-                        <a href="https://app.pickmycourse.ai/signup" class="aai-footer-nav-link"> Features</a>
+                        <a href="../Features.php" class="aai-footer-nav-link"> Features</a>
                       </li>
                       <li class="aai-footer-nav-list-item">
-                        <a href="about.html" class="aai-footer-nav-link"> Pricing</a>
+                        <a href="../Pricing.php" class="aai-footer-nav-link"> Pricing</a>
                       </li>
                       <li class="aai-footer-nav-list-item">
-                        <a href="features.html" class="aai-footer-nav-link"> Contact </a>
+                        <a href="../Contact.php" class="aai-footer-nav-link"> Contact </a>
                       </li>
                     </ul>
                   </nav>
@@ -143,14 +144,18 @@
                   <nav class="aai-footer-nav">
                     <h3 class="aai-footer-nav-title">Legal</h3>
                     <ul class="aai-footer-nav-list">
-                      <li class="aai-footer-nav-list-item">
-                        <a href="services.html" class="aai-footer-nav-link">
+                    <li class="aai-footer-nav-list-item">
+                        <a href="../Terms_Service.php" class="aai-footer-nav-link">
                           Terms Of Service
                         </a>
                       </li>
                       <li class="aai-footer-nav-list-item">
-                        <a href="about.html" class="aai-footer-nav-link"> Privacy Policy</a>
+                        <a href="../Privacy_Policy.php" class="aai-footer-nav-link"> Privacy Policy</a>
                       </li>
+                      <li class="aai-footer-nav-list-item">
+                        <a href="../Cancellation_Policy.php" class="aai-footer-nav-link"> Cancellation & Refund Policy</a>
+                      </li>
+                    
                     
                     </ul>
                   </nav>

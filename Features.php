@@ -10,6 +10,7 @@
     <link rel="icon" href="assets/img/logo/Pick_MY_Course_Favicon.png" type="image/gif" sizes="20x20">
     <link rel="stylesheet" href="assets/css/aos.css" />
     <link rel="stylesheet" href="assets/css/fontawesome-all.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/glightbox-min.css" />
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />

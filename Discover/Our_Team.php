@@ -89,7 +89,7 @@
                     >
                   </li>
                   <li>
-                    <a href="https://app.pickmycourse.ai/signup" class="dropdown-item"
+                    <a href="Pricing.php" class="dropdown-item"
                       ><span>Documentation/Tutorials</span></a
                     >
                   </li>
@@ -186,7 +186,7 @@
                   Pick My Course is an AI-powered platform that lets you create personalized courses on any topic. Generate video, image, or text-based lessons in minutes, complete with subtopics and an AI teacher to answer your questions. Start learning today!
                 </p>
                 <div class="mt-5 d-flex flex-column flex-md-row aai-btns-group">
-                  <a href="https://app.pickmycourse.ai/signup" class="aai-btn btn-pill-solid">Get Started</a>
+                  <a href="Pricing.php" class="aai-btn btn-pill-solid">Get Started</a>
                   <a href="about.html" class="aai-gradient-outline-btn">Learn More</a>
                 </div>
               </div>
@@ -2428,7 +2428,7 @@
               </div>
               <div class="col-xl-2 col-lg-6">
                 <div>
-                  <a href="https://app.pickmycourse.ai/signup" class="aai-gradient-outline-btn">Get Started </a>
+                  <a href="Pricing.php" class="aai-gradient-outline-btn">Get Started </a>
                 </div>
               </div>
             </div>
@@ -2601,7 +2601,7 @@
               </div>
               <div class="col-xl-2 col-lg-6">
                 <div>
-                  <a href="https://app.pickmycourse.ai/signup" class="aai-btn btn-pill-solid">Get Started </a>
+                  <a href="Pricing.php" class="aai-btn btn-pill-solid">Get Started </a>
                 </div>
               </div>
             </div>
@@ -2770,7 +2770,7 @@
               </div>
               <div class="col-xl-2 col-lg-6">
                 <div>
-                  <a href="https://app.pickmycourse.ai/signup" class="aai-gradient-outline-btn">Get Started </a>
+                  <a href="Pricing.php" class="aai-gradient-outline-btn">Get Started </a>
                 </div>
               </div>
             </div>
@@ -3135,7 +3135,7 @@
                         <a href="services.html" class="aai-footer-nav-link"> Team </a>
                       </li>
                       <li class="aai-footer-nav-list-item">
-                        <a href="https://app.pickmycourse.ai/signup" class="aai-footer-nav-link"> Features</a>
+                        <a href="Pricing.php" class="aai-footer-nav-link"> Features</a>
                       </li>
                       <li class="aai-footer-nav-list-item">
                         <a href="about.html" class="aai-footer-nav-link"> Pricing</a>

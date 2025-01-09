@@ -10,6 +10,7 @@
     <link rel="icon" href="assets/img/logo/Pick_MY_Course_Favicon.png" type="image/gif" sizes="20x20">
     <link rel="stylesheet" href="assets/css/aos.css" />
     <link rel="stylesheet" href="assets/css/fontawesome-all.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/glightbox-min.css" />
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
@@ -95,7 +96,7 @@
                       </div>
                     </div>
                   </div>
-                  <!-- <div class="aai-contact-widget mb-4">
+                 <div class="aai-contact-widget mb-4">
                     <div class="aai-contact-widget-inner d-flex">
                       <div>
                         <img src="assets/img/icons/contact-2.svg" alt="" />
@@ -103,20 +104,18 @@
                       <div>
                         <h3 class="aai-contact-widget-title">Contact Info</h3>
                         <p class="aai-contact-support">
-                          Open a chat or give us call at
+                          A901, Orvi, Balewadi, Pune, Maharastra - 411045
                         </p>
-                        <a href="tel:3108415500" class="aai-contact-address"
-                          >310 841 5500</a
-                        >
+                        
                       </div>
                     </div>
-                  </div> -->
+                  </div> 
                 </div>
               </div>
             </div>
             <div class="col-xl-6 col-lg">
               <div class="aai-contact-form">
-                <form action="Contact.php" method="post">
+              <form action="Contact.php" method="post">
                   <div class="row align-items-center justify-content-between">
                     <div class="col-xl-6">
                       <div class="aai-form-input">
@@ -214,7 +213,6 @@ if(isset($_POST['enquiry']))
 }
 
 ?>
-
               </div>
             </div>
           </div>

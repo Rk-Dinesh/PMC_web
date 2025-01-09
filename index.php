@@ -10,6 +10,7 @@
     <link rel="icon" href="assets/img/logo/Pick_MY_Course_Favicon.png" type="image/gif" sizes="20x20">
     <link rel="stylesheet" href="assets/css/aos.css" />
     <link rel="stylesheet" href="assets/css/fontawesome-all.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/glightbox-min.css" />
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
@@ -2288,7 +2289,7 @@
               </div>
               <div class="col-xl-2 col-lg-6">
                 <div>
-                  <a href="https://app.pickmycourse.ai/signup" class="aai-gradient-outline-btn">Get Started </a>
+                  <a href="https://app.pickmycourse.ai/signup" target="_blank"  class="aai-gradient-outline-btn">Get Started </a>
                 </div>
               </div>
             </div>
@@ -2456,12 +2457,12 @@
               </div>
               <div class="col-xl-3 col-lg-6">
                 <div class="aai-price-value">
-                  <h2 class="aai-price">$2.00/<br>Month</h2>
+                  <h2 class="aai-price">₹ 170.00/<br>Month</h2>
                 </div>
               </div>
               <div class="col-xl-2 col-lg-6">
                 <div>
-                  <a href="https://app.pickmycourse.ai/signup" class="aai-btn btn-pill-solid">Get Started </a>
+                  <a href="https://app.pickmycourse.ai/signup" target="_blank" class="aai-btn btn-pill-solid">Get Started </a>
                 </div>
               </div>
             </div>
@@ -2625,12 +2626,12 @@
               </div>
               <div class="col-xl-3 col-lg-6">
                 <div class="aai-price-value">
-                  <h2 class="aai-price">$5.00/<br>Month</h2>
+                  <h2 class="aai-price">₹ 430.00/<br>Month</h2>
                 </div>
               </div>
               <div class="col-xl-2 col-lg-6">
                 <div>
-                  <a href="https://app.pickmycourse.ai/signup" class="aai-gradient-outline-btn">Get Started </a>
+                  <a href="https://app.pickmycourse.ai/signup" target="_blank" class="aai-gradient-outline-btn">Get Started </a>
                 </div>
               </div>
             </div>
